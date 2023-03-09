@@ -4,11 +4,6 @@
 This project involves swapping the face of one image with another while preserving the original image's essential features such as pose, expression, and lighting.
 
 
-
-
-
-
-
 ## Tech Stack
 
 - Python3
@@ -22,7 +17,11 @@ This project involves swapping the face of one image with another while preservi
 
 ## Demo
 
+Original Image A and Image B 
+
 <img src="https://github.com/Nisarg221B/FaceSwap/blob/654ade73c1f051066f5c4c1a533c07680c37b62d/All%20Final%20Images/image1.gif" width=300></img>
+
+Output Consisting of decoding of Image A to Image A  and Swapping of Image A to Image B
 
 <img src="https://github.com/Nisarg221B/FaceSwap/blob/master/All%20Final%20Images/image2.gif" width=300></img>
 
@@ -33,5 +32,5 @@ This project involves swapping the face of one image with another while preservi
 ## References 
 *Note : this is Replication of original faceswap paper with some modification*
 
-Original paper and code :- https://github.com/iperov/DeepFaceLab
+![Original paper and code](https://github.com/iperov/DeepFaceLab)
 
