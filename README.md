@@ -17,11 +17,17 @@ This project involves swapping the face of one image with another while preservi
 
 ## Screenshots
 
-* Image A to A , * Image A to B
-![Image A](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png) ![Image A](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png) 
+* Image A to A 
+
+![Image A](https://github.com/Nisarg221B/FaceSwap/blob/468716f61bed322d431dba7b1f9746a466cc1980/All%20Final%20Images/final_images5/sample_image_a.png) 
+
+* Image B to B
+ 
+![Image B](https://github.com/Nisarg221B/FaceSwap/blob/468716f61bed322d431dba7b1f9746a466cc1980/All%20Final%20Images/final_images5/sample_image_b.png) 
 
 * Image B Swapped with Image A
-*  
+
+![B-A](https://github.com/Nisarg221B/FaceSwap/blob/468716f61bed322d431dba7b1f9746a466cc1980/All%20Final%20Images/final_images5/sample_image_b_to_a.png) 
 
 
 ## Demo
