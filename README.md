@@ -1,5 +1,5 @@
 
-# FaceSwap
+# FaceSwap ( DeepFake )
 
 This project involves swapping the face of one image with another while preserving the original image's essential features such as pose, expression, and lighting.
 
@@ -15,6 +15,15 @@ This project involves swapping the face of one image with another while preservi
 - [Nisarg Patel](nisarg.b.patel59@gmail.com)
 - [Payal Panjwani](3ppanjwani@gmail.com)
 
+## Screenshots
+
+* Image A to A , * Image A to B
+![Image A](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png) ![Image A](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png) 
+
+* Image B Swapped with Image A
+*  
+
+
 ## Demo
 
 Original Image A and Image B 
@@ -25,9 +34,6 @@ Output Consisting of decoding of Image A to Image A  and Swapping of Image A to 
 
 <img src="https://github.com/Nisarg221B/FaceSwap/blob/master/All%20Final%20Images/image2.gif" width=300></img>
 
-## Screenshots
-
-![Image A](https://github.com/Nisarg221B/FaceSwap/blob/d91aac36e26fdeb2a265d987379ecf8cc6d1cfde/All%20Final%20Images/final_images6/sample_image_a.png)
 
 ## References 
 *Note : this is Replication of original faceswap paper with some modification*
