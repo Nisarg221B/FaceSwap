@@ -36,11 +36,11 @@ This project is focused on demonstrating the importance of facial input alignmen
 
 * Original Image A and Image B 
 
-<img src="https://github.com/Nisarg221B/FaceSwap/blob/654ade73c1f051066f5c4c1a533c07680c37b62d/All%20Final%20Images/image1.gif" width=300></img>
+<img src="./'All Final Images'/image1.gif" width=300></img>
 
 * The below gifs comprises of the decoding of Image A to Image A and the swapping of Image A to Image B.
 
-<img src="https://github.com/Nisarg221B/FaceSwap/blob/master/All%20Final%20Images/image2.gif" width=300></img>
+<img src="./'All Final Images'/image2.gif" width=300></img>
 
 
 ## References 
