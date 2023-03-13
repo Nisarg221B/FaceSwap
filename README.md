@@ -36,11 +36,11 @@ This project is focused on demonstrating the importance of facial input alignmen
 
 * Original Image A and Image B 
 
-<img src="./'All Final Images'/image1.gif?raw=true" width="200px">
+<img src="./'All Final Images'/image1.gif?raw=true">
 
 * The below gifs comprises of the decoding of Image A to Image A and the swapping of Image A to Image B.
 
-<img src="./'All Final Images'/image2.gif?raw=true" width="200px">
+<img src="./'All Final Images'/image2.gif?raw=true">
 
 
 ## References 
